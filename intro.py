@@ -1,15 +1,15 @@
 
 
 
-#print('My name is Ryan')
+print('My name is Ryan')
 
-'''def namelen(name):
+def namelen(name):
     nchars = len(name)
     print('My name is Ryan')
     return nchars
 
 nchars = namelen('Ryan')
-print(nchars)'''
+print(nchars)
 
 class person:
     def __init__(self,name,age,occupation):
